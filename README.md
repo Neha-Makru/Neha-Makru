@@ -4,9 +4,9 @@
 My name is Neha Makru. 
 I am currenly pursuing an undergraduate degree in Artificial Intelligence engineering.
 
-# Skills
+<!--# Skills
 1. For frontend, I use html, css.
-2. For backend, I am comfortable in using Python and Mysql.
+2. For backend, I am comfortable in using Python and Mysql.-->
 
 # Projects 
 -None
