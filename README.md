@@ -11,6 +11,6 @@ I am currenly pursuing an undergraduate degree in Artificial Intelligence engine
 # Projects 
 -None
 
-#Github stats 
+# Github stats 
 -None 
 #
