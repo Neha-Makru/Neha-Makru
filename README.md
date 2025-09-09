@@ -1,8 +1,8 @@
 ### Hi there 👋
 **Neha Makru** 
 # Intro 
-My name is Neha Makru. 
-Passionate about the wonders possible using AI 🤖
+My name is Neha Makru. <br>
+Passionate about the wonders possible using AI 🤖 <br> 
 BTech CSE AI (2022-2026) 
 
 
