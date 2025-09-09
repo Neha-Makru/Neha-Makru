@@ -2,7 +2,9 @@
 **Neha Makru** 
 # Intro 
 My name is Neha Makru. 
-I am currenly pursuing an undergraduate degree in Artificial Intelligence engineering.
+Passionate about the wonders possible using AI 🤖
+BTech CSE AI (2022-2026) 
+
 
 <!--# Skills
 1. For frontend, I use html, css.
