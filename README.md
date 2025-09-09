@@ -16,7 +16,9 @@ Excel Automation using Python <a href="https://github.com/Neha-Makru/DataViz-Hub
 AIVISE: The AI Visual Health Sentinel (ongoing) <a href="https://github.com/Neha-Makru/AIVISE">
 
 # Github stats 
+### GitHub Stats <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Neha-Makru&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Neha-Makru's GitHub Stats" /> <hr> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Makru&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Neha-Makru's GitHub Stats" /> <hr> 
 <img src="https://streak-stats.demolab.com?user=Neha-Makru&theme=dark&hide_border=true" alt="Neha-Makru's GitHub Stats" /> <br> 
+### Languages <br> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Makru&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Neha-Makru's GitHub Stats" /> <hr> 
 #
