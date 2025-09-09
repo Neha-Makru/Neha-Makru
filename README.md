@@ -5,6 +5,8 @@ My name is Neha Makru. <br>
 Passionate about the wonders possible using AI 🤖 <br> 
 BTech CSE AI (2022-2026) 
 
+<img src="https://komarev.com/ghpvc/?username=Neha-Makru&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+
 
 # Skills and Technologies 
 <ul>
