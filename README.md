@@ -6,9 +6,16 @@ Passionate about the wonders possible using AI 🤖 <br>
 BTech CSE AI (2022-2026) 
 
 
-<!--# Skills
-1. For frontend, I use html, css.
-2. For backend, I am comfortable in using Python and Mysql.-->
+# Skills and Technologies 
+<ul>
+  Python 
+  C++
+  Java
+  SQL 
+  PowerBI 
+  LaTeX
+  Visual Studio Code
+</ul>
 
 # Projects 
 <a href="https://github.com/Neha-Makru/House_pricing_predictor"> House Pricing Predictor <br> 
@@ -17,8 +24,8 @@ AIVISE: The AI Visual Health Sentinel (ongoing) <a href="https://github.com/Neha
 
 # Github stats 
 ### GitHub Stats <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Neha-Makru&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Neha-Makru's GitHub Stats" /> <hr> 
+<img src="https://github-readme-stats.vercel.app/api?username=Neha-Makru&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Neha-Makru's GitHub Stats" /> 
 <img src="https://streak-stats.demolab.com?user=Neha-Makru&theme=dark&hide_border=true" alt="Neha-Makru's GitHub Stats" /> <br> 
-### Languages <br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Makru&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Neha-Makru's GitHub Stats" /> <hr> 
+### Languages <hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Makru&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Neha-Makru's GitHub Stats" /> 
 #
